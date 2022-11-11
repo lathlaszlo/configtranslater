@@ -1,0 +1,12 @@
+{
+  "author": "lath",
+  "description": "egy config fordító noobi módra!",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "@vitalets/google-translate-api": "^9.0.0"
+  }
+}
